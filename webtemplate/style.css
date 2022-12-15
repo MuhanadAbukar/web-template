@@ -1,0 +1,84 @@
+﻿ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+ li {
+     float: left;
+}
+ li a, .dropbtn {
+     display: inline-block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+}
+li a:hover, .dropdown:hover .dropbtn {
+     background-color: white;
+     color:black;
+ }
+ li.dropdown {
+     display: inline-block;
+}
+ .dropdown-content {
+     display: none;
+     position: absolute;
+     background-color: white;
+     min-width: 160px;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+     z-index: 1;
+     color:black;
+}
+ .dropdown-content a {
+     color: black;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+     text-align: left;
+}
+ .dropdown-content a:hover {
+     background-color: black;
+     color: white;
+}
+ .dropdown:hover .dropdown-content {
+     display: block;
+}
+img {
+    border-radius: 8px;
+}
+body {
+    background-color: #302e2e;
+}
+p {
+    color: white;
+    margin-right: 60%;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+h1 {
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.copy-right-sec {
+    padding: 1.8rem;
+    background: black;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+        width: 100%;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+    .copy-right-sec a {
+        font-family: "Lucida Console", "Courier New", monospace;
+        color: blue;
+        font-weight: 500;
+    }
+==
+html {
+    height: 100%;
+}
