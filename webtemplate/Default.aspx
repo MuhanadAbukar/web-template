@@ -25,10 +25,10 @@
       </ul>
       <h1> Lorem Impsum Dolor Sit Amet.</h1>
       <p>Lorem ipsum dolor sit amet. Id expedita voluptatem et velit voluptatem et reprehenderit quas sit voluptas laboriosam. Qui quas voluptatem sit sapiente commodi aut earum omnis qui consequatur corporis ut enim minus cum galisum voluptates. Vel odit enim est totam eaque ea galisum reiciendis id internos soluta qui laboriosam impedit! </p>
-      <p>Rem exercitationem nisi et praesentium voluptas non optio dolorum eos vitae expedita At labore odit non temporibus aspernatur est laboriosam architecto. Sed iusto tempora et dolores ducimus et voluptas voluptatem eum nobis dolores ut consequatur delectus eum doloremque expedita? </p>
+      <p>Rem exercitationem nisi et praesentium voluptas non optio dolorum eos vitae expedita At labore odit non temporibus aspernatur est laboriosam architecto. Sed iusto tempora et dolores ducimus et voluptas voluptatem eum nobis dolores ut consequatur delectus eum doloremque expedita? </p>      <image src="https://www.w3schools.com/css/paris.jpg" style="vertical-align: bottom;"></image>
       <p>Quo impedit voluptatibus eum aliquid debitis ab necessitatibus optio id veritatis aspernatur ut consequatur deserunt sit eius possimus. Ab blanditiis numquam quo aperiam veniam aut mollitia quos. Hic iste aliquid hic autem nesciunt aut consequatur fugiat qui culpa numquam non laboriosam amet ut minus nobis. Sit doloremque eaque et saepe aliquid aut assumenda dicta. </p>
-      <image src="https://www.w3schools.com/css/paris.jpg"></image>
-      <div />
+      <br /><br /><br /><br /><br /><br />
+       <div />
        <footer>
            <div class="copy-right-sec">
 				lorem ispum lorem ispum company 2022 Powered By <a href="#">lorem ispum</a
